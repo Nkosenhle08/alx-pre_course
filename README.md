@@ -1,3 +1,2 @@
-
-My first readme
+Aspiring software engineer
 
